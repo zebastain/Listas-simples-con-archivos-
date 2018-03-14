@@ -1,0 +1,4 @@
+1;Celulares;14;500000
+2;Computadores;20;1000000
+4;Galletas;50;500
+3;Dulces;100;100
